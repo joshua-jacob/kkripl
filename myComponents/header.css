@@ -1,0 +1,150 @@
+*{
+    box-sizing: border-box;
+  }
+  
+  .bd{
+   margin: 0px;
+   padding: 0px;
+   font: poppins;
+   
+    font-family: 'Saira Semi Condensed', sans-serif;
+    font-weight: 400;
+    min-height: 140vh;
+    min-width: 100vw;
+    /* background:url("https://www.teahub.io/photos/full/351-3517151_kolkata-knight-riders-new.jpg") no-repeat center center / cover; */
+    background-size: cover;
+    background-color: #2E0854;
+
+
+  
+  }
+  .nav-item {
+    margin-left: 40px;
+    font-size: medium;
+  
+  }
+  
+  #main {
+   width: 100%;
+   height: 50vh;
+   position: relative;
+  }
+  
+  nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: black;
+    box-shadow: 5px 10px 30px rgba(0, 0, 0, 0.02);
+    z-index: 1;
+  
+  }
+  
+  .logo img{
+    height: 75px;
+  }
+  
+ 
+  .ami img{
+    display:flex;
+    margin-left:250px;
+    height: 50px;
+    
+  }
+  
+ 
+   .searchbar{
+    margin-bottom: auto;
+    margin-top: auto;
+    height: 60px;
+    background-color: white;
+    border-radius: 30px;
+    padding: 10px;
+    float: right;
+    }
+  
+    .search_input{
+    color: black;
+    border: 0;
+    outline: 0;
+    background: none;
+    width: 0;
+    caret-color:transparent;
+    line-height: 40px;
+    transition: width 0.4s linear;
+    }
+  
+    
+  
+    .search_icon{
+    height: 40px;
+    width: 40px;
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    color:white;
+    text-decoration:none;
+    }
+    .d-flex{
+      text-align: right;
+      align-self: flex-end;
+      margin-right: 0;
+      margin-left: auto;
+    }
+    .container-fluid{
+      background: black;
+      margin: 0;
+      padding: 0;
+    }
+    .bg-dark{
+      background-color: black!important;
+    }
+    .h2{
+        text-align: center;
+        margin-top: 50px;
+        margin-left: 430px;
+        margin-right: 430px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        background-color: white;
+        color:white;
+    }
+    .gous{
+      margin-top: 40px;
+      margin-bottom: 20px;
+      margin-left: 70px;
+      margin-right: 70px;
+      color: white;
+      font-family: 'Saira Semi Condensed', sans-serif;
+      /* background-color: #B3A123; */
+    }
+    .data table,th,td{
+      border: 2px solid black;
+      
+      width: 50%;
+      margin-left: 240px;
+      background-color: white;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15)
+
+    }
+   
+    .goush2{
+      margin-top: 30px;
+      margin-bottom: 20px;
+      text-align: center;
+      margin-left: 70px;
+      margin-right: 70px;
+      color: white;
+      font-family: 'Saira Semi Condensed', sans-serif;
+      /* background-color: #B3A123; */
+    }
+  
+.some2{
+  border: 2px solid black;
+}
