@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/kkripl/static/css/main.0978d649.chunk.css",
-    "main.js": "/kkripl/static/js/main.6690fade.chunk.js",
-    "main.js.map": "/kkripl/static/js/main.6690fade.chunk.js.map",
+    "main.js": "/kkripl/static/js/main.b45858a5.chunk.js",
+    "main.js.map": "/kkripl/static/js/main.b45858a5.chunk.js.map",
     "runtime-main.js": "/kkripl/static/js/runtime-main.f0a89474.js",
     "runtime-main.js.map": "/kkripl/static/js/runtime-main.f0a89474.js.map",
-    "static/js/2.e28a16c5.chunk.js": "/kkripl/static/js/2.e28a16c5.chunk.js",
-    "static/js/2.e28a16c5.chunk.js.map": "/kkripl/static/js/2.e28a16c5.chunk.js.map",
+    "static/js/2.570093bf.chunk.js": "/kkripl/static/js/2.570093bf.chunk.js",
+    "static/js/2.570093bf.chunk.js.map": "/kkripl/static/js/2.570093bf.chunk.js.map",
     "static/js/3.1e036741.chunk.js": "/kkripl/static/js/3.1e036741.chunk.js",
     "static/js/3.1e036741.chunk.js.map": "/kkripl/static/js/3.1e036741.chunk.js.map",
     "index.html": "/kkripl/index.html",
     "static/css/main.0978d649.chunk.css.map": "/kkripl/static/css/main.0978d649.chunk.css.map",
-    "static/js/2.e28a16c5.chunk.js.LICENSE.txt": "/kkripl/static/js/2.e28a16c5.chunk.js.LICENSE.txt",
+    "static/js/2.570093bf.chunk.js.LICENSE.txt": "/kkripl/static/js/2.570093bf.chunk.js.LICENSE.txt",
     "static/media/Ami.e722ebd9.jpg": "/kkripl/static/media/Ami.e722ebd9.jpg",
     "static/media/KKRJPG.2fe72ac2.jpg": "/kkripl/static/media/KKRJPG.2fe72ac2.jpg",
     "static/media/kk1.e2c3fe54.jpg": "/kkripl/static/media/kk1.e2c3fe54.jpg",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f0a89474.js",
-    "static/js/2.e28a16c5.chunk.js",
+    "static/js/2.570093bf.chunk.js",
     "static/css/main.0978d649.chunk.css",
-    "static/js/main.6690fade.chunk.js"
+    "static/js/main.b45858a5.chunk.js"
   ]
 }
